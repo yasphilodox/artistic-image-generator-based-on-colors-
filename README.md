@@ -47,5 +47,8 @@ The app generates an artistic pattern of circles and squares using the colors yo
 
 Enjoy creating your own random colorful art pieces!
 
-## License
-MIT License
+
+![aaaaaaa](https://github.com/user-attachments/assets/28098520-04a9-4db7-864c-94c79d23b1ad)
+
+
+
