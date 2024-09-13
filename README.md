@@ -3,6 +3,10 @@
 
 This is a simple PyQt5 application that allows you to create an artistic color palette and generate random shapes with the colors you choose. It uses `matplotlib` for rendering the artwork and PyQt5 for the graphical user interface.
 
+![aaaaaaa](https://github.com/user-attachments/assets/28098520-04a9-4db7-864c-94c79d23b1ad)
+
+![aaaaaaa](https://github.com/user-attachments/assets/580ffed9-ae08-43c5-af4c-bf48f06a23de)
+
 ## Features
 
 - **Color Selection**: Select as many colors as you want using a color picker.
@@ -48,7 +52,8 @@ The app generates an artistic pattern of circles and squares using the colors yo
 Enjoy creating your own random colorful art pieces!
 
 
-![aaaaaaa](https://github.com/user-attachments/assets/28098520-04a9-4db7-864c-94c79d23b1ad)
+
+
 
 
 
