@@ -1,5 +1,5 @@
 
-# Artistic image generator based on selecting Color from a palette  - PyQt5 Art App
+# contemporary art generator based on selecting Color from a palette  - PyQt5 Art App
 
 This is a simple PyQt5 application that allows you to create an artistic color palette and generate random shapes with the colors you choose. It uses `matplotlib` for rendering the artwork and PyQt5 for the graphical user interface.
 
