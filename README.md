@@ -5,7 +5,8 @@ This is a simple PyQt5 application that allows you to create an artistic color p
 
 ![aaaaaaa](https://github.com/user-attachments/assets/28098520-04a9-4db7-864c-94c79d23b1ad)
 
-![aaaaaaa](https://github.com/user-attachments/assets/580ffed9-ae08-43c5-af4c-bf48f06a23de)
+
+![Figure_1](https://github.com/user-attachments/assets/3f8851f4-b2c4-427d-93e6-3bb85c58b984)
 
 ## Features
 
